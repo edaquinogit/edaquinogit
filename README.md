@@ -23,3 +23,25 @@ Sou um entusiasta de tecnologia focado em criar soluções eficientes com Python
 - **E-mail:** a_ednaldo@icloud.com
 
 ---
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🏆 Conquistas no GitHub
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=edaquinogit&theme=radical&column=4&margin-w=15&no-bg=true&no-frame=true" alt="Troféus do Ednaldo" />
+  </a>
+</p>
+
+---
+
+### 📈 Atividade
+![Contribuições de Ednaldo](https://raw.githubusercontent.com/edaquinogit/edaquinogit/output/github-contribution-grid-snake.svg)
+
+*(As estatísticas detalhadas serão habilitadas após a indexação do perfil pelo GitHub)*
