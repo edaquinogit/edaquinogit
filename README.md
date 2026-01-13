@@ -23,8 +23,3 @@ Sou um entusiasta de tecnologia focado em criar soluções eficientes com Python
 - **E-mail:** a_ednaldo@icloud.com
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do Ednaldo](https://github-readme-stats.vercel.app/api?username=edaquinogit&show_icons=true&theme=radical)
-
