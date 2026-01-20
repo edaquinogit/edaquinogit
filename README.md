@@ -1,47 +1,41 @@
 # Olá, eu sou o Ednaldo! 👋
 
-### 👨‍💻 Desenvolvedor Python | Backend & APIs
+### 🚀 Desenvolvedor Python em Evolução Constante
 
-Sou um entusiasta de tecnologia focado em criar soluções eficientes com Python. Atualmente, dedico meus estudos à construção de APIs robustas e interfaces dinâmicas que resolvem problemas do dia a dia.
+Atualmente, dedico **6 horas diárias** ao aprimoramento técnico, transitando da lógica de programação para a construção de arquiteturas sólidas com **Orientação a Objetos (POO)** e **Desenvolvimento de APIs**.
 
 ---
 
-### 🚀 No que estou trabalhando:
-- **Gerenciador de Tarefas Pro:** Uma aplicação Full-Stack com FastAPI, Autenticação JWT e Streamlit.
-- **Evolução de APIs:** Estudando padrões de arquitetura e integração de banco de dados SQLModel.
+### 🛠️ No que estou focado agora:
+- 🐍 **Python Intermediário:** Dominando POO (Classes, Herança, Encapsulamento) para criar código escalável.
+- 🌐 **Backend & APIs:** Evoluindo conhecimentos em APIs REST (experiência com CRUDs e gerenciamento de estados).
+- 🏗️ **Arquitetura de Software:** Estudando como organizar projetos profissionais e Clean Code.
 
-### 🛠️ Minha Stack Tecnológica:
-- **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Frameworks:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-- **Banco de Dados:** ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-- **Ferramentas:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### 🎓 Formação Acadêmica
+- **Graduação em Gestão da Tecnologia da Informação** - Centro Universitario UniGrande
+- **Período:** 2º Semestre (Previsão de conclusão: dez/2027)
+- **Foco atual:** Estrutura de Dados, Algoritmos e Arquitetura de Sistemas.
+  
+---
+
+### 📊 Meus Diferenciais:
+- **Intensidade:** 30+ horas semanais de código focado.
+- **Mentalidade de Engenheiro:** Foco em entender o "porquê" das coisas, não apenas copiar sintaxe.
+- **Portfólio de Evolução:** https://github.com/edaquinogit/python-exercicios - Aqui você pode ver meu progresso diário documentado.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Ednaldo Aquino Santos](https://www.linkedin.com/in/ednaldo-aquino-6536892b5)
-- **E-mail:** a_ednaldo@icloud.com
-
----
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 🏆 Conquistas no GitHub
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=edaquinogit&theme=radical&column=4&margin-w=15&no-bg=true&no-frame=true" alt="Troféus do Ednaldo" />
-  </a>
-</p>
-
+- **LinkedIn:** www.linkedin.com/in/ednaldo-aquino-area
+- **Portfólio de Exercícios:** https://github.com/edaquinogit/python-exercicios
 ---
 
-### 📈 Atividade
-![Contribuições de Ednaldo](https://raw.githubusercontent.com/edaquinogit/edaquinogit/output/github-contribution-grid-snake.svg)
-
-*(As estatísticas detalhadas serão habilitadas após a indexação do perfil pelo GitHub)*
+> "A disciplina é a ponte entre metas e realizações." 🚀
