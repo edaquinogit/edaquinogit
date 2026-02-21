@@ -2,7 +2,7 @@
 
 ### 👨🏾‍💻 Backend Developer em Formação | Gestão de Tecnologia da Informação
 
-Sou graduando em **Gestão da Tecnologia da Informação** (2º Período), focado em unir a visão estratégica de processos de TI com o desenvolvimento de soluções robustas em **Python**. Busco constantemente a eficiência técnica através da Programação Orientada a Objetos e o uso estratégico de IAs generativas para otimização de fluxo de trabalho.
+Sou graduando em **Gestão da Tecnologia da Informação** (3º Período), focado em unir a visão estratégica de processos de TI com o desenvolvimento de soluções robustas em **Python**. Busco constantemente a eficiência técnica através da Programação Orientada a Objetos e o uso estratégico de IAs generativas para otimização de fluxo de trabalho.
 
 ---
 
