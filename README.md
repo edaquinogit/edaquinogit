@@ -33,14 +33,28 @@ Atualmente, busco a minha primeira oportunidade formal na área de engenharia de
 - **Impacto:** Estabelecimento de uma base de código modular (Front/Back separados), facilitando a manutenção futura e a escalabilidade do negócio.
 
 ---
-
-### 📊 GitHub Analytics
+### 📊 Tech Stack & Performance
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=edaquinogit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaquinogit&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/AI_Workflow-FF6600?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Process_Management-00add8?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
+
+---
+
+### 📈 Activity & Impact
+- ⚡ **Focus:** High-performance Backend & API Design.
+- 🛠️ **Current Build:** Developing [BipFlow Ecosystem](https://github.com/edaquinogit/BipFlow-Manage).
+- 🤖 **AI Strategy:** Using Generative AI to optimize code quality and sprint velocity.
+
 
 ---
 
