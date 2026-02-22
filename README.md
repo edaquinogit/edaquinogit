@@ -1,46 +1,52 @@
-# Olá, eu sou o Ednaldo! 👋
+# Ednaldo Aquino
+**Software Engineer | Process Management | AI Integration Workflow**
 
-### 👨🏾‍💻 Backend Developer em Formação | Gestão de Tecnologia da Informação
+Desenvolvedor de Software focado na construção de sistemas escaláveis e na resolução de problemas reais de negócios. Com uma forte base em **Gestão de Processos**, meu objetivo é entregar códigos que não apenas funcionem, mas que otimizem operações e reduzam gargalos técnicos.
 
-Sou graduando em **Gestão da Tecnologia da Informação** (3º Período), focado em unir a visão estratégica de processos de TI com o desenvolvimento de soluções robustas em **Python**. Busco constantemente a eficiência técnica através da Programação Orientada a Objetos e o uso estratégico de IAs generativas para otimização de fluxo de trabalho.
-
----
-
-### 🛠️ Tecnologias e Ferramentas:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+Atualmente, busco a minha primeira oportunidade formal na área de engenharia de software, trazendo uma mentalidade de mercado global: arquitetura limpa, documentação rigorosa e o uso estratégico de **Inteligência Artificial** para acelerar o desenvolvimento e focar na qualidade do produto.
 
 ---
 
-### 📁 Portfólio de Desenvolvimento:
+### 🛠️ Core Competencies & Tech Stack
 
-* **[Core Engine & CLI](https://github.com/edaquinogit/gerenciador_tarefas_cli)**: Repositório central de lógica de negócio, contendo aplicações de linha de comando e arquitetura de objetos.
-* **[Labs & Research](https://github.com/edaquinogit/python-exercicios)**: Documentação de estudos diários, algoritmos de base e evolução de lógica de programação.
-* **[Integrations & APIs](https://github.com/edaquinogit/gerenciador-tarefas-api)**: Estudos focados em comunicação de sistemas e consumo de interfaces programáveis.
+**Arquitetura & Backend (Core Focus):**
+- **Python & Django / DRF:** Construção de APIs RESTful robustas e seguras.
+- **Database Design:** Modelagem de dados relacionais e otimização de queries (SQLite, PostgreSQL ready).
+- **Engenharia de Software:** Separation of Concerns (SoC), Clean Code e versionamento semântico avançado (Git).
 
----
+**Frontend & UX:**
+- **Vanilla Architecture:** JavaScript (ES6+), HTML5, CSS3 Moderno.
+- Integração assíncrona (Fetch API/CORS) com foco em performance de renderização no cliente.
 
-### 🎓 Formação & Certificações:
-
-- **Graduação:** Gestão da Tecnologia da Informação (2º Período).
-- **Especialização Técnica:** - Programação Orientada a Objetos (Curso em Vídeo).
-  - Desenvolvimento Python: do Iniciante ao Intermediário (Udemy).
-  - Inteligência Artificial Aplicada: Módulos 1 e 2 (Curso em Vídeo).
-  - Gestão de Versionamento com Git & GitHub (Curso em Vídeo).
-- **Idiomas:** Inglês Técnico e Noções de Espanhol.
+**Processos & Ferramentas:**
+- **AI-Assisted Development:** Integração de LLMs no fluxo de trabalho diário para automação de tarefas, refatoração e design de soluções.
+- Mapeamento e otimização de fluxos (BPM), garantindo alinhamento entre a engenharia e os objetivos do negócio.
 
 ---
 
-### 📫 Conecte-se comigo:
+### 🚀 Engineering Portfolio
+
+**[BipFlow / BipDelivery](https://github.com/edaquinogit/BipFlow-Manage)**
+*Plataforma de gestão de pedidos projetada para alta performance e escalabilidade.*
+- **O Desafio:** Criar um ecossistema backend capaz de gerenciar produtos, entregas e processamento dinâmico de mídia de forma isolada do frontend.
+- **A Solução:** Implementação de uma API RESTful utilizando Django DRF, configurando rotas estáticas e de mídia do zero, com uma arquitetura pronta para consumo assíncrono.
+- **Impacto:** Estabelecimento de uma base de código modular (Front/Back separados), facilitando a manutenção futura e a escalabilidade do negócio.
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="left">
-  <a href="www.linkedin.com/in/ednaldo-aquino-area" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="a_ednaldo@icloud.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=edaquinogit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edaquinogit&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
-*"A tecnologia serve aos negócios, e o código é o que torna essa entrega possível."*
+
+### 📫 Let's Connect
+
+Preparado para agregar valor a equipes de tecnologia, trazendo uma mentalidade de engenharia de produto, facilidade de adaptação e foco absoluto em resultados. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednaldo-aquino-area)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edaquinogit)
