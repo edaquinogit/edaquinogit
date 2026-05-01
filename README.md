@@ -1,10 +1,12 @@
 # Ednaldo Aquino
 
-**Software Engineer | Full-Stack Product Engineering | Process Management**
+**Desenvolvedor Full-Stack em formação | Python/Django | Vue/TypeScript | Gestão de Processos**
 
-Desenvolvedor de software focado em construir produtos web com base técnica sólida, regras de negócio bem protegidas e documentação que acompanha o código real. Minha experiência em gestão de processos orienta a forma como projeto sistemas: primeiro entendo o fluxo, depois traduzo isso em arquitetura, API, interface e qualidade verificável.
+Estou em busca da minha primeira oportunidade como **estagiário ou desenvolvedor júnior**, com foco em backend, APIs, produto e aplicações web full-stack.
 
-Atualmente desenvolvo o **BipFlow Manage**, uma plataforma full-stack para gestão de catálogo, frete, carrinho, checkout via WhatsApp e histórico de vendas. O objetivo do projeto é demonstrar código de produto, não apenas CRUD isolado.
+Minha base em **gestão de processos** influencia diretamente minha forma de programar: antes de escrever código, procuro entender o fluxo do negócio, as regras importantes, os pontos de risco e a melhor forma de transformar isso em software simples de operar e manter.
+
+Atualmente desenvolvo o **BipFlow Manage**, uma plataforma full-stack para gestão de catálogo, frete, carrinho, checkout via WhatsApp e histórico de vendas. O projeto foi construído para demonstrar código de produto, não apenas telas ou CRUDs isolados.
 
 ---
 
@@ -23,23 +25,36 @@ Plataforma de gestão para pequenos negócios, com backend Django REST, frontend
 | Qualidade | Pytest, Ruff, Vitest, Cypress, ESLint, typecheck e build validado |
 | Documentação | README, visão de arquitetura, guia de desenvolvimento e referência funcional da API |
 
-**Decisões técnicas relevantes**
+---
 
-- Separação clara entre backend Django REST, frontend Vue e motor Node isolado.
-- Escrita administrativa protegida por papéis como `staff`, `admin` e `manager`.
-- Cadastro público sem concessão automática de acesso ao dashboard.
-- Checkout recalculado no servidor e persistido como pedido de venda.
-- Chamadas HTTP concentradas em `src/services/` e tokens centralizados em `token-store.ts`.
-- Documentação curta, versionada e mantida como fonte operacional do estado atual.
+## Estudo De Caso STAR
+
+**Situação:** pequenos negócios que vendem por WhatsApp costumam depender de processos manuais para catálogo, frete, carrinho, pedido e histórico de vendas. Isso gera retrabalho, risco de erro no valor final e pouca visibilidade operacional.
+
+**Tarefa:** construir uma aplicação full-stack operável que conectasse catálogo público, dashboard administrativo, cálculo de frete, checkout e persistência de pedidos, mantendo o backend como fonte de verdade das regras de negócio.
+
+**Ação:** estruturei um backend Django REST com autenticação JWT, RBAC, throttling, produtos, categorias, regiões de entrega, checkout validado no servidor e histórico de vendas. No frontend, organizei uma aplicação Vue 3 + TypeScript com services, composables, validação por Zod, dashboard protegido e fluxo público de compra.
+
+**Resultado:** o projeto entrega um fluxo completo: administração de catálogo, compra pública, cálculo de frete, geração de pedido via WhatsApp e registro persistido para consulta posterior. Também mantém documentação viva, testes, lint, typecheck e build como parte da qualidade do repositório.
+
+---
+
+## O Que Este Projeto Demonstra
+
+- Capacidade de transformar um problema de negócio em arquitetura, API e interface.
+- Entendimento de autenticação, autorização, papéis de acesso e proteção no backend.
+- Organização de frontend com contratos, serviços, estado reutilizável e validação.
+- Preocupação com manutenção: documentação curta, comandos de qualidade e separação de responsabilidades.
+- Maturidade para atuar em equipe júnior: clareza, aprendizado contínuo, disciplina técnica e atenção a regras de negócio.
 
 ---
 
 ## Como Trabalho Engenharia
 
 - **Produto antes do framework:** tecnologia entra para resolver o fluxo real, não para inflar a arquitetura.
-- **Contratos explícitos:** APIs, schemas, permissões e regras de domínio documentados e testáveis.
-- **Segurança no servidor:** o backend é a fonte de verdade para dados sensíveis, totais, estoque e autorização.
-- **Manutenção como requisito:** organização de camadas, comandos de qualidade e documentação acompanham o ciclo de mudança.
+- **Contratos explícitos:** APIs, schemas, permissões e regras de domínio precisam ser claros e testáveis.
+- **Segurança no servidor:** o backend deve proteger dados sensíveis, totais, estoque e autorização.
+- **Manutenção como requisito:** organização de camadas, documentação e testes fazem parte da entrega.
 - **IA com critério:** uso assistentes de desenvolvimento para acelerar análise, refatoração e validação, mantendo responsabilidade técnica sobre as decisões.
 
 ---
@@ -67,10 +82,10 @@ Plataforma de gestão para pequenos negócios, com backend Django REST, frontend
 
 ## Foco Atual
 
-- Evoluir o BipFlow como produto full-stack operável e bem documentado.
-- Fortalecer testes, contratos de API e qualidade de entrega.
-- Aplicar gestão de processos para transformar requisitos de negócio em software simples de manter.
-- Buscar oportunidades em engenharia de software onde produto, arquitetura e execução caminhem juntos.
+- Buscar minha primeira oportunidade como estagiário ou desenvolvedor júnior.
+- Evoluir o BipFlow como produto full-stack operável, seguro e bem documentado.
+- Fortalecer fundamentos de backend, APIs REST, testes, TypeScript e experiência de produto.
+- Contribuir em equipes onde eu possa aprender rápido, entregar com cuidado e crescer com responsabilidade.
 
 ---
 
