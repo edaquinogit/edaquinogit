@@ -18,9 +18,9 @@ Minha base em **gestão de processos** influencia diretamente minha forma de pro
 
 - **Código-fonte:** [BipFlow Manage](https://github.com/edaquinogit/BipFlow-Manage)
 - **Documentação técnica:** [README do projeto](https://github.com/edaquinogit/BipFlow-Manage#readme)
-- **Vídeo completo:** demonstração explicada do fluxo do produto no LinkedIn.
-- **Carrossel técnico:** 9 slides sobre arquitetura, stack e decisões de engenharia no LinkedIn.
-- **Perfil profissional:** [LinkedIn - Ednaldo Aquino](https://www.linkedin.com/in/ednaldo-aquino-area/)
+- **Vídeo completo:** [demonstração explicada do fluxo do produto no LinkedIn](https://www.linkedin.com/posts/ednaldo-aquino-backend_opentowork-vagasti-desenvolvedor-ugcPost-7455073194668888064-kCBE)
+- **Carrossel técnico:** [9 slides sobre arquitetura, stack e decisões de engenharia no LinkedIn](https://www.linkedin.com/posts/ednaldo-aquino-backend_estagio-opentowork-desenvolvedor-ugcPost-7454498028276760578-zi7X)
+- **Perfil profissional:** [LinkedIn - Ednaldo Aquino](https://www.linkedin.com/in/ednaldo-aquino-backend/)
 
 ---
 
@@ -105,5 +105,5 @@ Plataforma full-stack para pequenos negócios que precisam controlar catálogo, 
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednaldo-aquino-area)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednaldo-aquino-backend)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edaquinogit)
