@@ -6,7 +6,21 @@ Estou em busca da minha primeira oportunidade como **estagiário ou desenvolvedo
 
 Minha base em **gestão de processos** influencia diretamente minha forma de programar: antes de escrever código, procuro entender o fluxo do negócio, as regras importantes, os pontos de risco e a melhor forma de transformar isso em software simples de operar e manter.
 
-Atualmente desenvolvo o **BipFlow Manage**, uma plataforma full-stack para gestão de catálogo, frete, carrinho, checkout via WhatsApp e histórico de vendas. O projeto foi construído para demonstrar código de produto, não apenas telas ou CRUDs isolados.
+## Visão Rápida
+
+- **Objetivo atual:** primeira oportunidade como estagiário ou desenvolvedor júnior.
+- **Projeto principal:** [BipFlow Manage](https://github.com/edaquinogit/BipFlow-Manage), uma plataforma full-stack para pequenos negócios.
+- **Stack de foco:** Python, Django REST Framework, Vue 3, TypeScript, Vite, Zod, Pytest, Vitest, Cypress e Git.
+- **Diferencial:** combinação de programação com visão de processos, regras de negócio, documentação e qualidade.
+- **Evidências externas:** vídeo completo do projeto e carrossel técnico publicados no LinkedIn.
+
+## Demonstração E Evidências
+
+- **Código-fonte:** [BipFlow Manage](https://github.com/edaquinogit/BipFlow-Manage)
+- **Documentação técnica:** [README do projeto](https://github.com/edaquinogit/BipFlow-Manage#readme)
+- **Vídeo completo:** demonstração explicada do fluxo do produto no LinkedIn.
+- **Carrossel técnico:** 9 slides sobre arquitetura, stack e decisões de engenharia no LinkedIn.
+- **Perfil profissional:** [LinkedIn - Ednaldo Aquino](https://www.linkedin.com/in/ednaldo-aquino-area/)
 
 ---
 
@@ -14,7 +28,7 @@ Atualmente desenvolvo o **BipFlow Manage**, uma plataforma full-stack para gest�
 
 ### [BipFlow Manage](https://github.com/edaquinogit/BipFlow-Manage)
 
-Plataforma de gestão para pequenos negócios, com backend Django REST, frontend Vue 3 + TypeScript e checkout público integrado ao WhatsApp.
+Plataforma full-stack para pequenos negócios que precisam controlar catálogo, frete, pedidos e checkout via WhatsApp sem depender de planilhas ou mensagens soltas.
 
 | Área | Implementação |
 | --- | --- |
@@ -35,7 +49,7 @@ Plataforma de gestão para pequenos negócios, com backend Django REST, frontend
 
 **Ação:** estruturei um backend Django REST com autenticação JWT, RBAC, throttling, produtos, categorias, regiões de entrega, checkout validado no servidor e histórico de vendas. No frontend, organizei uma aplicação Vue 3 + TypeScript com services, composables, validação por Zod, dashboard protegido e fluxo público de compra.
 
-**Resultado:** o projeto entrega um fluxo completo: administração de catálogo, compra pública, cálculo de frete, geração de pedido via WhatsApp e registro persistido para consulta posterior. Também mantém documentação viva, testes, lint, typecheck e build como parte da qualidade do repositório.
+**Resultado:** o projeto entrega administração de catálogo, compra pública, cálculo de frete, geração de pedido via WhatsApp e registro persistido para consulta posterior. Também mantém documentação versionada, testes, lint, typecheck e build como parte da qualidade do repositório.
 
 ---
 
