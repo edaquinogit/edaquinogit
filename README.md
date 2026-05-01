@@ -14,6 +14,12 @@ Minha base em **gestão de processos** influencia diretamente minha forma de pro
 - **Diferencial:** combinação de programação com visão de processos, regras de negócio, documentação e qualidade.
 - **Evidências externas:** vídeo completo do projeto e carrossel técnico publicados no LinkedIn.
 
+## Currículo
+
+- **Versão ATS em Markdown:** [Ednaldo_Aquino_Curriculo_ATS.md](docs/Ednaldo_Aquino_Curriculo_ATS.md)
+- **Foco de candidatura:** estágio, trainee ou desenvolvedor júnior em backend, frontend ou full stack.
+- **Leitura recomendada:** currículo para triagem objetiva, README do BipFlow para profundidade técnica e LinkedIn para demonstração visual do projeto.
+
 ## Demonstração E Evidências
 
 - **Código-fonte:** [BipFlow Manage](https://github.com/edaquinogit/BipFlow-Manage)
